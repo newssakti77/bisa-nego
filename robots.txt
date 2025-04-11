@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newssakti77.github.io/bisa-nego/sitemap.xml
